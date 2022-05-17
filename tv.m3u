@@ -31,7 +31,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="Canada;English",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="USA,English",Rick and Morty
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="USA;English",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="USA,English",Samurai Jack
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="USA;English",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
