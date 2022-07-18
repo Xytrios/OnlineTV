@@ -31,21 +31,21 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="USA;English",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" status="online",Stingray Today's Latin Pop (1080p)
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" status="online",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" status="online",Stingray Urban Beat (1080p)
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" status="online",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" status="online",Stingray Hit List (1080p)
+#EXTINF:-1 tvg-id="StingrayHitList.ca" status="online",Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" status="online",Stingray Greatest Hits (1080p)
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" status="online",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEverything80s.ca" status="online",Stingray Everything 80s (1080p)
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" status="online",Stingray Everything 80s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" status="online",Stingray Flashback 70s (1080p)
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" status="online",Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" status="online",Stingray Soul Storm (1080p)
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" status="online",Stingray Soul Storm
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" status="online",Stingray Classic Rock (1080p)
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" status="online",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" status="online",Stingray Soul Storm (1080p)
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" status="online",Stingray Soul Storm
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
