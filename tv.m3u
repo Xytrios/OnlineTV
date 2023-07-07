@@ -27,6 +27,8 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://raw.githubusercontent.com/Xytrios/OnlineTV/main/gullihdapr23.m3u8
 #EXTINF:-1 tvg-id="StingrayHitList.ca",Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca",Stingray Today's Latin Pop 
