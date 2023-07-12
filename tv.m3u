@@ -51,3 +51,7 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
 #EXTINF:-1 tvg-id="StingraySoulStorm.ca",Stingray Soul Storm
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
+#EXTINF:-1 channel-id="samsung-CABB260002016" tvg-id="CABB260002016" tvg-chno="1221" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Entertainment" , Fireplace
+https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD1500003SD" tvg-id="GBBD1500003SD" tvg-chno="4011" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1500003SD_20230510T044335SQUARE.png_20230510044336.png" group-title="Lifestyle" , FireScape
+https://d2kl8610bw4e7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x5iyqsu1ayzs3/master.m3u8
