@@ -6,9 +6,9 @@ https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
 #EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canada;Francais;Kids",Tele-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada;Francais",TVA
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="I723.72976.zap2it.com" tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" group-title="Canada;Francais",Noovo
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Canada;English",CBC TV Montreal
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8
 #EXTINF:-1 tvg-id="I213.51981.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Canada;English",CBC TV West
