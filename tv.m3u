@@ -9,10 +9,6 @@ https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/61016
 https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada;Francais",TVA
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-id="I723.72976.zap2it.com" tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" group-title="Canada;Francais",Noovo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest.mpd
 #EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Canada;English",CBC TV Montreal
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8
 #EXTINF:-1 tvg-id="I213.51981.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Canada;English",CBC TV West
