@@ -5,8 +5,6 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
 #EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canada;Francais;Kids",Tele-Quebec
 https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canada;Francais;Kids",Tele-Quebec SQUAT
-https://bcovlive-a.akamaihd.net/0903168c3aaa4b8b84406dfd5f1ffbb7/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada;Francais",TVA
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Canada;English",CBC TV Montreal
