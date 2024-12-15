@@ -4,15 +4,13 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 tvg-id="I733.72984.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="Canada;Francais",ICI Tele Ouest
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
 #EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canada;Francais;Kids",Tele-Quebec
-https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/5959fef1c8da4c30806f072083cb1add/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada;Francais",TVA
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Canada;English",CBC TV Montreal
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8
 #EXTINF:-1 tvg-id="I213.51981.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="Canada;English",CBC TV West
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 tvg-id="I738.74875.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Canada;Francais",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="I742.60327.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Canada;Francais",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="I743.67231.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDgzNjA3NzJf/LCN_640x640.png" group-title="Canada;Francais",LCN
